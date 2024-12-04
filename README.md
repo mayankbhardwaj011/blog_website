@@ -1,4 +1,5 @@
 Project Overview :-
+
 This project is a fully-featured blog website built using the MERN (MongoDB, Express, React, Node.js) stack. The platform allows users to create, edit, delete, and view blog posts. It also supports user authentication and comment functionality.
 
 
